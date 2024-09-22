@@ -5,8 +5,12 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.1",
+    "@hono/zod-validator": "^0.2.2",
+    "@prisma/client": "^5.19.1",
     "hono": "^4.6.2",
-    "honoor": "^1.2.3"
+    "honoor": "^1.2.3",
+    "prisma": "^5.19.1",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
